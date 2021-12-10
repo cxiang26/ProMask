@@ -1,2 +1,2 @@
 # ProMask
-projection global feature into instance space
+projected global feature into instance space
